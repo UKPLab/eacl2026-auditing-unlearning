@@ -1,6 +1,6 @@
 # Auditing Language Model Unlearning via Information Decomposition
 
-Code for the EACL 2025 paper: **Auditing Language Model Unlearning via Information Decomposition**.
+Code for the EACL 2026 paper: **Auditing Language Model Unlearning via Information Decomposition**.
 
 We introduce a framework to audit machine unlearning by decomposing the information in model representations into **Unlearned Knowledge** (unique to base model) and **Residual Knowledge** (shared/redundant).
 
